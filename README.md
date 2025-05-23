@@ -1,46 +1,50 @@
-📊 Urban Census Analysis – MSc Data Science Project
+# 📊 Census Data Analysis
 This project was developed as part of my MSc in Artificial Intelligence and Data Science. The goal was to simulate a real-world data science task for local government planning using a mock UK census dataset.
 
-🧠 Project Goal
+## 🧠 Project Goal
 To analyze a fictional town’s population and recommend:
 
-What infrastructure to build on an empty plot of land.
+-  What infrastructure to build on an empty plot of land.
 
-Where to prioritise public investment based on demographic and economic trends.
+-  Where to prioritise public investment based on demographic and economic trends.
 
-📁 Dataset
-Simulated census-style dataset (10,000 rows)
+## 📁 Dataset
+Simulated census-style dataset (9543 rows)
 
 Features include: age, gender, occupation, religion, household, marital status, infirmity, and more
 
-Data intentionally included inconsistencies and missing values to reflect real-world challenges
+Data intentionally **included inconsistencies and missing values** to reflect real-world challenges
 
-🔧 Key Tasks
-✔️ Data cleaning: imputation, standardisation, error handling
+## 🔧 Key Tasks
+✔️ **Data cleaning**: imputation, standardisation, error handling
 
-📊 Exploratory data analysis (EDA): visualisations and trend detection
+📊 **Exploratory data analysis (EDA)**: visualisations and trend detection
 
-🧪 Feature engineering: commuter flag, age bins, employment status
+🧪 **Feature engineering**: commuter flag, age bins, employment status
 
-📌 Policy recommendations: based on quantitative insights
+📌 **Policy recommendations**: based on quantitative insights
 
-🛠️ Tools Used
-Python
+## 🛠️ Tools Used
+- Python
 
-pandas, seaborn, matplotlib
+- Libraries: pandas, seaborn, matplotlib
 
-Jupyter Notebook
+- Jupyter Notebook
 
-📈 Final Recommendations
-Infrastructure: Build a train station to support the town’s large commuter population
 
-Investment: Fund employment & training programmes, particularly for mid-career adults
+## 📸 Visual Highlights
+- Age pyramids
 
-📸 Visual Highlights
-Age pyramids
+- Household occupancy distribution
 
-Household occupancy distribution
+- Employment and unemployment breakdown
 
-Employment and unemployment breakdown
+- Religion distribution
 
-Religion distribution
+
+## 📈 Final Recommendations
+- Infrastructure: Build a train station to support the town’s large commuter population
+
+- Investment: Fund employment & training programmes, particularly for mid-career adults
+
+
